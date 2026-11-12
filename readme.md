@@ -20,6 +20,12 @@ An image-led collection of CyberSand **2D side-elevation map concepts**. Priorit
 | Industrial | [Industrisand 1](industrisand1.png) · [Industrisand 2](industrisand2.png) |
 | Fusion | [Fusion 1](fusion1.png) · [Fusion 2](fusion2.png) |
 
+## AI-generated industrial concepts
+
+<a href="art/concepts/industrial-brackwater-liftworks.png"><img src="art/concepts/industrial-brackwater-liftworks.png" alt="Brackwater Liftworks — AI-generated concept art" width="325"></a>
+
+[Brackwater Liftworks — 1920 × 1200 full-resolution original](art/concepts/industrial-brackwater-liftworks.png) · Orthographic industrial pumpworks with an open turbine hall, suspended crossings, ladders and stepped spillways. Concept artwork only; not World Builder output.
+
 ## Provenance
 
 The ten existing PNGs are **seed reference images; their origin is not independently verified**. They are **not** presented as CyberSand World Builder captures. New image-generation work belongs under `art/concepts/` and revised AI artwork under `art/refined/`, labelled accordingly in the gallery. Only genuine captures accompanied by native World Builder evidence may be labelled World Builder output.
