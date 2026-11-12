@@ -1,33 +1,43 @@
 # Sandmaps
 
-An image-led collection of CyberSand **2D side-elevation map concepts**. Priority: natural organic environments, varied traversable layouts, striking negative space and iteration on actual artwork.
+An image-led gallery of **CyberSand-inspired orthographic 2D side-elevation map concepts**. Emphasis: traversable layouts, organic environments, striking negative space and spatial variation.
 
-**[View the standalone gallery source](index.html)** · Open `index.html` locally for filtering and direct links to the full-resolution originals. All images below link to their original PNGs in this repository.
+Browse [the standalone gallery](index.html) locally for filtering, or open any image below at its **original full resolution**.
 
-## Organic seed artwork
+## Organic seed studies
 
-<a href="organic-luminous-cavern.png"><img src="organic-luminous-cavern.png" alt="Organic Luminous Cavern" width="325"></a>
-<a href="organic-petrified-trees.png"><img src="organic-petrified-trees.png" alt="Organic Petrified Trees" width="325"></a>
-<a href="organic-root-bridges.png"><img src="organic-root-bridges.png" alt="Organic Root Bridges" width="325"></a>
+<a href="organic-luminous-cavern.png"><img src="organic-luminous-cavern.png" alt="Organic Luminous Cavern — seed reference" width="305"></a>
+<a href="organic-petrified-trees.png"><img src="organic-petrified-trees.png" alt="Organic Petrified Trees — seed reference" width="305"></a>
+<a href="organic-root-bridges.png"><img src="organic-root-bridges.png" alt="Organic Root Bridges — seed reference" width="305"></a>
 
-[Organic Luminous Cavern](organic-luminous-cavern.png) · [Organic Petrified Trees](organic-petrified-trees.png) · [Organic Root Bridges](organic-root-bridges.png)
+[Luminous Cavern](organic-luminous-cavern.png) · [Petrified Trees](organic-petrified-trees.png) · [Root Bridges](organic-root-bridges.png)
 
-## More starting artwork
+## Gothic seed studies
 
-| Group | Full-resolution originals |
-|---|---|
-| Gothic | [Gothic Canyon Bridges](gothic-canyon-bridges.png) · [Gothic Sunset Fortress](gothic-sunset-fortress.png) · [Gothic Waterfall Cathedral](gothic-waterfall-cathedral.png) |
-| Industrial | [Industrisand 1](industrisand1.png) · [Industrisand 2](industrisand2.png) |
-| Fusion | [Fusion 1](fusion1.png) · [Fusion 2](fusion2.png) |
+<a href="gothic-canyon-bridges.png"><img src="gothic-canyon-bridges.png" alt="Gothic Canyon Bridges — seed reference" width="305"></a>
+<a href="gothic-sunset-fortress.png"><img src="gothic-sunset-fortress.png" alt="Gothic Sunset Fortress — seed reference" width="305"></a>
+<a href="gothic-waterfall-cathedral.png"><img src="gothic-waterfall-cathedral.png" alt="Gothic Waterfall Cathedral — seed reference" width="305"></a>
 
-## AI-generated industrial concepts
+[Canyon Bridges](gothic-canyon-bridges.png) · [Sunset Fortress](gothic-sunset-fortress.png) · [Waterfall Cathedral](gothic-waterfall-cathedral.png)
 
-<a href="art/concepts/industrial-brackwater-liftworks.png"><img src="art/concepts/industrial-brackwater-liftworks.png" alt="Brackwater Liftworks — AI-generated concept art" width="325"></a>
+## Industrial and fusion seeds
 
-[Brackwater Liftworks — 1920 × 1200 full-resolution original](art/concepts/industrial-brackwater-liftworks.png) · Orthographic industrial pumpworks with an open turbine hall, suspended crossings, ladders and stepped spillways. Concept artwork only; not World Builder output.
+<a href="industrisand1.png"><img src="industrisand1.png" alt="Industrisand 1 — seed reference" width="305"></a>
+<a href="industrisand2.png"><img src="industrisand2.png" alt="Industrisand 2 — seed reference" width="305"></a>
+<a href="fusion1.png"><img src="fusion1.png" alt="Fusion 1 — seed reference" width="305"></a>
+<a href="fusion2.png"><img src="fusion2.png" alt="Fusion 2 — seed reference" width="305"></a>
+
+[Industrisand 1](industrisand1.png) · [Industrisand 2](industrisand2.png) · [Fusion 1](fusion1.png) · [Fusion 2](fusion2.png)
+
+## Generated map concepts
+
+<a href="art/concepts/industrial-brackwater-liftworks.png"><img src="art/concepts/industrial-brackwater-liftworks.png" alt="Brackwater Liftworks — AI-generated concept art" width="305"></a>
+<a href="art/concepts/scifi-lacuna-array-underice-signal-vault.png"><img src="art/concepts/scifi-lacuna-array-underice-signal-vault.png" alt="Lacuna Array Underice Signal Vault — procedurally rendered concept art" width="305"></a>
+
+[Brackwater Liftworks](art/concepts/industrial-brackwater-liftworks.png) · **AI-generated concept** · 1920 × 1200 · flooded industrial liftworks and spillways.
+
+[Lacuna Array — Underice Signal Vault](art/concepts/scifi-lacuna-array-underice-signal-vault.png) · **Procedurally rendered concept** · 2048 × 1152 · sci-fi side-elevation chamber network.
 
 ## Provenance
 
-The ten existing PNGs are **seed reference images; their origin is not independently verified**. They are **not** presented as CyberSand World Builder captures. New image-generation work belongs under `art/concepts/` and revised AI artwork under `art/refined/`, labelled accordingly in the gallery. Only genuine captures accompanied by native World Builder evidence may be labelled World Builder output.
-
-Do not replace or downsample the original PNGs to create previews.
+The ten root PNGs are **seed references of unverified origin**. Newly AI-generated artworks are marked **AI-generated concept**; revised AI artworks will be marked **AI-refined concept**. Procedurally rendered concepts are identified separately. None of these images is represented as actual CyberSand World Builder output. That designation requires a genuine native session and accompanying export evidence. Full-resolution originals are preserved.
